@@ -11,7 +11,7 @@ const Navbar=()=>(
         </Box>
         <Spacer/>
         <Box>
-            <Menu>
+            <Menu id="navbar" isLazy>
                 <MenuButton as={IconButton} icon={<FcMenu/>} variant="outlined" color="red.400"/>
                 <MenuList>
                     <Link href="/" passHref>

@@ -36,7 +36,7 @@ export default function Home({propertiesForRent,propertiesForSale}) {
       </Flex>
       <Banner 
         purpose={'BUY A HOME'}
-        purpose={'Look,Buy &Own Your'}
+        
         title1="Dream Home"
         title2="Everyone"
         desc1="Explore Apartments,Villas,Home"
